@@ -12,7 +12,7 @@ params:
 
 ---
 
-![Signposts Home Page](/img/home.png)
+![Signposts Home Page](img/home.png)
 
 ---
 
@@ -50,5 +50,5 @@ params:
 
 **Click the link below to check out a website with a concerning ratio of engineering-effort to utility**
 
-![Signposts Logo](/img/signposts.png)
+![Signposts Logo](img/signposts.png)
 _[Signposts.rsvp](https://signposts.rsvp)_

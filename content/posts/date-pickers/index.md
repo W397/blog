@@ -6,7 +6,7 @@ draft: false
 
 ### What I wanted for users of signposts.rsvp
 
-![x-date-picker](/img/datepicker.png)
+![x-date-picker](img/datepicker.png)
 [link to the component documentation](https://mui.com/x/react-date-pickers/date-range-picker/#use-a-single-input-field)
 
 ### What I ended up making
