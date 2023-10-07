@@ -1,0 +1,24 @@
+baseURL: ""
+languageCode: "en-us"
+title: "Blog for Signposts (for now)"
+theme: "papertheme"
+
+params:
+
+  defaultTheme: 'dark'
+  disableThemeToggle: true
+  homeInfoParams:
+    Title: "The Author"
+    Content: "This is a Hugo blog that I /spun up/ to create commentary-type content for my website https://signposts.rsvp , and will -in the future- use to post about more things"
+  socialIcons:
+    - name: mastodon
+      url: "https://mastodon.social/@solider"
+    - name: reddit
+      url: "https://reddit.com/u/ParticularAstronomy"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
