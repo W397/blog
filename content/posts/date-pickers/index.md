@@ -11,4 +11,4 @@ draft: false
 
 ### What I ended up making
 
-![x-date-picker](https://res.cloudinary.com/dhqkvqdcy/image/upload/v1696669135/samples/date_fuktmc.gif)
+![x-date-picker](https://res.cloudinary.com/dhqkvqdcy/image/upload/v1696671907/samples/ezgif-1-7cc2609eba_asr01w.gif)
